@@ -6,3 +6,5 @@ obj.then((data)=>{
     console.log(obj);
 })
 
+console.log("hello");
+
