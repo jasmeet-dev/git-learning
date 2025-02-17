@@ -8,4 +8,6 @@ obj.then((data)=>{
 
 console.log("hello");
 
+
 console.log("h");
+console.log("bug fix");
